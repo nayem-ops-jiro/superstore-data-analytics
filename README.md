@@ -6,7 +6,7 @@
 ---
 
 ## 📷 Dashboard Overview
-![Superstore Profitability Dashboard]<img width="1917" height="1051" alt="Screenshot 2026-07-23 150212" src="https://github.com/user-attachments/assets/5a70e04d-f39b-488a-afd7-3f20d9ed36e9" />
+<img width="1917" height="1051" alt="Screenshot 2026-07-23 150212" src="https://github.com/user-attachments/assets/5a70e04d-f39b-488a-afd7-3f20d9ed36e9" />
 
 
 ---
