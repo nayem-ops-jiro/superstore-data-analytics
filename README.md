@@ -6,7 +6,7 @@
 ---
 
 ## 📷 Dashboard Overview
-![Superstore Profitability Dashboard]("C:\Users\nayem\OneDrive\Pictures\Screenshots\Screenshot 2026-07-23 150212.png")
+![Superstore Profitability Dashboard](Screenshots\Screenshot 2026-07-23 150212.png")
 
 ---
 
